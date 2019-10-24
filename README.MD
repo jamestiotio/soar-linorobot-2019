@@ -200,7 +200,7 @@ Plug your keyboard and monitor to your raspberry pi before continuing.
     $ ip route | grep default
     ```
 
-3. Use the same Netmask and Gateway addresses, but not the same IP Address (choose a random value for `XX.XXX`). You can use `8.8.8.8` for DNS. After setting these up, reconnect to the WiFi.
+3. Use the same Netmask and Gateway addresses, but not the same IP Address (choose a random value for `XXX.XXX`). You can use `8.8.8.8` for DNS. After setting these up, reconnect to the WiFi.
 
     Finally, generate new SSH keys by inputting these commands:
 
@@ -232,10 +232,11 @@ $ sudo apt-get install dphys-swapfile
 Run the install file where:
 
 base = 2wd, 4wd, ackermann, mecanum
+
 sensor = xv11, rplidar, ydlidar, hokuyo, kinect, realsense
         
 ```
-# For our case it gonna be ./install 2wd rplidar
+# For our case it's gonna be ./install 2wd rplidar
 $ ./install base sensor
 ```
 
