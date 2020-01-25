@@ -1,15 +1,15 @@
 SOAR LinoRobot F4stB0is Practice!
 ===
 Authors:
-- James Raphael Tiovalen
-- Dody Senputra
-- Chung Wah Kit
-- Wen Kang
-- Kevin Ma Yuchen
-- He Haolan
-- Brendan Ong
-- Sean
-- Ragul Balaji
+- [James Raphael Tiovalen](https://github.com/jamestiotio)
+- [Dody Senputra](https://github.com/ulaladungdung)
+- [Chung Wah Kit](https://github.com/sdencanted)
+- [Wong Wen Kang](https://github.com/1487quantum)
+- [Kevin Ma Yuchen](https://github.com/Kevinskwk)
+- [He Haolan](https://github.com/darthnoward)
+- [Brendan Ong](https://github.com/robobdo)
+- [Sean Yeo](https://github.com/weighanchor4414)
+- [Ragul Balaji](https://github.com/ragulbalaji)
 
 Credits to the [original Linorobot repository](https://github.com/linorobot/linorobot/)!
 
