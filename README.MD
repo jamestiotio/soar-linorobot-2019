@@ -2,7 +2,7 @@ SOAR LinoRobot F4stB0is Practice!
 ===
 Authors:
 - [James Raphael Tiovalen](https://github.com/jamestiotio)
-- [Dody Senputra](https://github.com/ulaladungdung)
+- [Dody Senputra](https://github.com/senputra)
 - [Chung Wah Kit](https://github.com/sdencanted)
 - [Wong Wen Kang](https://github.com/1487quantum)
 - [Kevin Ma Yuchen](https://github.com/Kevinskwk)
